@@ -1,0 +1,14 @@
+{
+    "name": "webpack-example",
+    "version": "1.0.0",
+    "description": "A simple webpack example.",
+    "main": "bundle.js",
+    "keywords": [
+        "webpack"
+    ],
+    "author": "maple.yf",
+    "license": "MIT",
+    "dependencies": {
+        "webpack": "^3.10.0"
+    }
+}
